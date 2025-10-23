@@ -1,5 +1,6 @@
 **Trader Sentiment & Profitability Analysis**
 
+**Google Colab Notebook Link - https://colab.research.google.com/drive/1tLOU6M57pR3CAm9eUE9s2uvi47Fxkst8?usp=sharing**
 
 **Overview**
 
